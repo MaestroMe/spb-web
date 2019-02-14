@@ -1,6 +1,0 @@
-com\tk\web\HelloController.class
-com\tk\Application.class
-com\tk\WebConfiguration.class
-com\tk\util\NeoProperties.class
-com\tk\web\ThymeleafController.class
-com\tk\WebConfiguration$MyFilter.class
