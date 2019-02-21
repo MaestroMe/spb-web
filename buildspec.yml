@@ -6,5 +6,5 @@ phases:
       - mvn clean compile package
 artifacts:
   files:
-     - './target/**/*.jar'
+     - './target/*.jar'
   discard-paths: yes
