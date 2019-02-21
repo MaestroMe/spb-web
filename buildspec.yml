@@ -6,6 +6,5 @@ phases:
       - mvn clean compile package
 artifacts:
   files:
-     - './target'
-  name: 'spr-web*.jar' 
+     - './target/spr-web*.jar'
   discard-paths: yes
